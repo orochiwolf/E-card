@@ -32,5 +32,5 @@ Une implémentation du jeu **E-Card** inspiré de l’anime *Kaiji*, écrite en 
    git clone https://github.com/ton-compte/ecard-kaiji.git
    cd ecard-kaiji```
 3. Exécutez le script :
-    ``` python ecard.py```
+    ``` python E-card.py```
 
